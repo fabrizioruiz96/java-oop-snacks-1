@@ -1,5 +1,3 @@
-package snackUno;
-
 public class Studente {
 
     private String nome;

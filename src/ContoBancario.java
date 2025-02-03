@@ -1,5 +1,3 @@
-package snackDue;
-
 public class ContoBancario {
     
     private int numeroConto;

@@ -1,5 +1,3 @@
-package snackDue;
-
 public class UsaContoBancario {
     
     public static void main(String[] args) {

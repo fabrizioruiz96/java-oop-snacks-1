@@ -1,5 +1,7 @@
 .vscode/settings.json
-bin/snackUno/Studente.class
-bin/snackUno/UsaStudente.class
-bin/snackDue/ContoBancario.class
-bin/snackDue/UsaContoBancario.class
+bin/ContoBancario.class
+bin/RegistroStudenti.class
+bin/Studente.class
+bin/UsaContoBancario.class
+bin/UsaStudente.class
+bin/UsaRegistroStudenti.class
