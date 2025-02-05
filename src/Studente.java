@@ -24,7 +24,6 @@ public class Studente {
 
     public String getDatiStudente(){
         String datiStudente = nome + " " + cognome + ", " + anni + " anni";
-        System.out.println(datiStudente);
         return datiStudente;
     }
 }

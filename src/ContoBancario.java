@@ -12,17 +12,17 @@ public class ContoBancario {
         saldoConto = 0;
     }
 
-    public void Deposito(double soldi){
+    public void deposito(double soldi){
         saldoConto += soldi;
         System.out.format("Hai depositato EURO %f", soldi);
     }
 
-    public void Prelievo(double soldi){
+    public void prelievo(double soldi){
         saldoConto -= soldi;
         System.out.format("Hai prelevato EURO %f", soldi);
     }
 
-    public double Saldo(){
+    public double saldo(){
         System.out.format("Il tuo saldo corrente è di EURO %f", saldoConto);
         return saldoConto;
     }
